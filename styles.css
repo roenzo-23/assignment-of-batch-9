@@ -1,0 +1,39 @@
+.red{
+    color: #F00;
+ border: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.container{
+    <div class="centered">Happy New Year</div>
+}
+.centered {
+     
+        position: absolute;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #FFFFFF;
+      }
+  .middle{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFFFFF;
+  }
+  .d{
+    size: 900px;
+    text-align: center;
+    color: #F00 ;
+    
+  }
+.bottom{
+    size: 900px;
+    text-align: center;
+    color: #070211;
+}
