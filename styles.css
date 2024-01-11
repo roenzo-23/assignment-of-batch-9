@@ -13,9 +13,9 @@ body{
     font-weight: 700;
     line-height: normal;
 }
-.container{
+/* .container{
     <div class="centered">Happy New Year</div>
-}
+} */
 .centered {
     /* color: #FFF;
     text-align: center;
@@ -86,7 +86,7 @@ flex-shrink: 0;
 
 .bottom-left {
     position: absolute;
-    bottom: ;
+    /* bottom: ; */
     left: 19px;
     color:#FFFFFF
   }
